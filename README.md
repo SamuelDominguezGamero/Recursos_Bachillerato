@@ -7,3 +7,6 @@
 
 ## Física básica
 
+[(Vídeo) Repaso MRU, MRUA](https://www.youtube.com/watch?v=Onb3K_VLF2Y)
+
+[(Vídeo) Repaso gráficas MRU, MRUA](https://youtu.be/jKX44JtdEFU?si=sGUDa0SmzfHYdodm)

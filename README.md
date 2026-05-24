@@ -11,5 +11,9 @@
 
 [(Vídeo) Repaso gráficas MRU, MRUA](https://youtu.be/jKX44JtdEFU?si=sGUDa0SmzfHYdodm)
 
-
 [(Apuntes) Formulación orgánica](https://iessabinofernandezcampo.org/WebFQ/Formulacionorganica.pdf)
+
+
+## Física Bachillerato
+
+[(Apuntes) Campo eléctrico](https://www.profesorjrc.es/apuntes/2%20bachillerato/fisica/campo%20electrico.pdf)
